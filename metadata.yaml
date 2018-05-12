@@ -1,0 +1,25 @@
+_repo: Jacky-Dandy-s-Delight_23482
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dandy, Jacky
+    gutenberg_agent_id: '25876'
+    url: http://www.gutenberg.org/2009/agents/25876
+description: ''
+gutenberg_issued: '2007-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23482'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- Juvenile poetry'
+- !lcc 'PZ'
+- !lcsh 'Animals -- Juvenile poetry'
+title: Jacky Dandy's Delight
+url: http://www.gutenberg.org/ebooks/23482
